@@ -118,7 +118,7 @@ const Project = (props) => {
                         </div>
                     )
                 }
-                return 0;
+                return [];
             })}
         </div>
     )
