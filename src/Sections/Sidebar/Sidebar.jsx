@@ -70,7 +70,7 @@ const Sidebar = ({pageChange}) => {
         workLink.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/#/`;
+				window.location.href=`/portfolio/#/`;
 			},1200)
 		})
     })
