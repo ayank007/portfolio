@@ -1,0 +1,121 @@
+{
+    "work":{
+        "0":{
+            "image":[
+                "https://lh3.googleusercontent.com/z3bCM-UFtHSk374WA_XyRZ6S_MTKtwoxiuvcXHoxnM7ae3DpGXPOppUWJ_gFdvPNEpAT54i6PXpbLf1Y_Ya-kQGh8HcZtqajpvL0FbAJNs99t8epuQvEwLjCcLC3MCNzB589xuf_IA=w2400",
+                "https://lh3.googleusercontent.com/s9xcsEGCAIeOq9mvnP8ocGt6hD6egEmvOKDlJWUEF0IebP5RionbOdr2W3PDY37qD3l24Wa7MH_gEAXM7CR07fK2YHqBxzBbCvMpt7QnVUDpn9SlwpjmvhAPiZiYFedTAwLaXMiLdQ=w2400",
+                "https://lh3.googleusercontent.com/smw9LXTQNhRMK09QmOZrDr-ySZRh7oLI0NLrJ7Fz4BHsYNCs5oD-fmad2cOfGfpmT2wsh6kGXOSSj8HnJkSLlq2RwyN5V-kG_-gjienVXpz_LZNCL9SStd32gWwgOcTqHj42IZZlqA=w2400",
+                "https://lh3.googleusercontent.com/tAOtBCCBEJdPhB2F1M0gFp74bKvm75615fxq2mlS9OU3hlqYfuVlfUNBtRUVihWmlQLd0bElWDrfd_IqgGeMxEHzMrpNnKVzLtEN1-rsjzIF_jLKUVUW96qizm5WMxJ1Z5Angb-f2w=w2400",
+                "https://lh3.googleusercontent.com/HiE5wf_n0z5tcYXXTDqsrSXeTR9MT7rAjH3pMkJvQM8doR9FRRAtHeJb1-IYcXoRmJsv-lo6uePOp8N8K_vR6jmd0TocGoh8lZFhjI4-D0oLvTEZTpb_tNP1JLG-H_y5FsL6tQ-paA=w2400",
+                "https://lh3.googleusercontent.com/-Eho9M5xPo72MYJs1TUQPUEefywEcuUU9LYFTUGt1mCAML8u7ZUJUBLpSm04j0HgFsrTI_120iap5Vig3UdkQSTD9XTDHmOpUvbQv35jU3byW4_MhUfI9dnH3CNFf9aDLz1dLzTemA=w2400",
+                "https://lh3.googleusercontent.com/aOkTeiJAU7zsJHBu1etX6mT7xqFLfDGkAbMl1YHnFb1poISgblns4irlkByfdhi4QmCFt2A444fALBytmZUtvD6755BGT8HZ8jB_QlB8vZJQuBiAJ4snwGQAYqgRSLAE7RN83Wivuw=w2400"
+            ],
+            "overview":"Portfolio",
+            "title":"A work that defines me",
+            "toolbelt":"Figma, HTML, CSS, JavaScript, JSX, React, Framer Motion, Google Sheets, Google Photo, Labnol",
+            "intro":"This is my professional portfolio. It shows some of my freelancing works, professional experiences, Education Details, Industrial Skills, up-to-date Resume, Hobbies & Ambitions and my Contact options",
+            "dummy":false,
+            "objective":"A way to show my status and skills to Friends, Employers or any interested person",
+            "role": "Everything",
+            "client":"Myself",
+            "date":"First launch ~ April, 2021. Will be updating forever.",
+            "section":["The Hero Section ~ it show my name, preferred job role, a short intro, my favorite player and some glimpses of my personality", "Project Section ~ It's the collection of some of my favorite freelancing as well as personal projects, I developed.", "About Section ~ Here you can find a little bit about me, my experiences, hobbies, interests etc.", "Contact Section ~ Here comes some of my online existences and way to send message to me. Let's have a little talk on our free time.","Navbar Section ~ The website has a fixed sidebar with the useful links, but it also has a hidden Navbar. Get it by clicking the Menu-bar on top-right. All the links to navigate the whole website and my industrial skills can be found here. ","Project Page ~ Click the thumbnails in project sections to get to the more details. The project page has more details about the projects."],
+            "challenge":"As everyone says a Portfolio should not be flashy, simple to just show the works etc. my toughest challenge was not to make it too flashy and not to put too much about my personal life. I tried it, maybe failed but I loved my work here. It totally represent my attitude and basic skills like what a portfolio should do. <br /> Making the navigation animation was not the toughest but a very challenging and my favorite part. <br /> Another challenging part was to make it responsive. Of course the major beauty of the website will be found only on desktop or large screen but it should also be interesting in the mobo devices.",
+            "colors":["#0e0e0e","#000000","#5e5e5e1c","#f1f1f1","#c2c2c2","#ffffff","rgba(0,0,0,0.2)","rgba(255,255,255,0.2)", "#49ffba", "#a80e37", "#A87328","#54290C","#241909"]
+        },
+        "1":{
+            "image":["https://lh3.googleusercontent.com/Xj6JswkU0xG6Ey6sHDwA3Y4ELTlyimgjFC-2IaP69bgDF9JLmhpDH0_EZWXQ8w_xdUQ0AuUcpD3qzwhGo_VanemWxKmVFGDISJKY7-ExMkV4JH1__y27IpgtSQp5XiNEjNdpq7ky4A=w2400","https://lh3.googleusercontent.com/fOlmogM7U9QgOT3_fVUgCJiCRV3AQvcCey9PNyJuqJLMR1ivv_hJsNPKCaNa7nl53lNZnjH5panJzwI-9RhLK17zMwx_Y1qqsS5tcLSB4GdCxlkj6VpFumeWF7mm90YQ9VKqjcSREg=w2400","https://lh3.googleusercontent.com/VZ9P__pjgXHz5Tzj-tFKrwEQkTVlVbBoYaKBCwxNo8nlbW0Wz4camdapikil90Od04OxBeWKN8R997C9h-zlfEBQB2L2BpYnmv_6uxW0IgyJ5wAV9IUjUcqTqvcZnnQ-P3SJcvCNHw=w2400","https://lh3.googleusercontent.com/woOgPG32ZoZbXdLaaqHWIP_YjyWm_9k4rQ99BIxFX1Ffpx85ddEkabhLepoiDBHg_V3AeyxQgP5Lu3h2TzVSRNKmxD37jAastBTPw8g4eZ05GQs7aaDw_PXtYqnjdT8wnS1RXSfXDw=w2400"],
+            "overview":"Freelancing",
+            "title":"Landing Page For A Digital Marketing And Strategy Making Start-Up",
+            "toolbelt":"Figma + HTML-CSS, Vanilla JavaScript, Bootstrap, JQuery and Django",
+            "intro":"The Project is for a Client, a digital marketing and strategy building start-up organization. It's a freelancing project we build it with a 2 man team in a span of week.",
+            "dummy":true,
+            "objective":"The objective was creating a dazzling but simple trustworthy website that pleases the eyes of B2B customers with the maximum content.",
+            "role":"Graphic Design and Frontend Development [Also assisted in Django Development]",
+            "client":"Infinity Global Technologies",
+            "date":"Dec, 2020",
+            "section":["The Home page ~ consisting Hero section, Services overview, Testimonial section and an easy-to-get contact information along with a form.","The Service / Strategy Page ~ consisting all the services to be provided.","The Portfolio Page ~ showing all the big projects","and the last but not least an About us Page ~ presenting the journey of the company and reasons to hire them."],
+            "challenge":"It was my very first freelancing project. The Development helped me with a lot with my industrial skills. The hardest challenge I faced was to pick a trustworthy color theme and making a non-fancy hero section.",
+            "colors":["#f3f3f2","#04039f","#229fcf"]
+        },
+        "2":{
+            "image":[
+                "https://lh3.googleusercontent.com/0pP6mXatkxnGRIW2-QUoIjq3EjE1GUQX0_g4TiGCMUO50miKXq9EptyLuDM77qd8aJP0EuiqwZ-Ifuw4ydtuxuZWl9cZMJf21k0ca258BUREzhZh73Vv765SzldRJWx1xIpgGk1Q_A=w2400",
+                "https://lh3.googleusercontent.com/mubLklwFVKsjs-OGPYYA0yGUWLZjOlQfbS8WAZoZnzD_ASaAiyqd-6YeXG9ESEa90tM_xrmoOLhVF4JK74BpCe92uw7YzzInaeBfFVHx7f4FAHlm37KiMug57fr92gyYHG9l6CGuNg=w2400",
+                "https://lh3.googleusercontent.com/i9Ntmnf-cF2bd71UN0PHL8tz84MR1UlFBHmPNNkBXEBCABftieZawTgfpiMQ50SrfIvszjULoptg4AYnGPdGJ56DwSBY6Q57SytLnS0xze8G_kyLAhxsPnmZ4ynxtocR4NNkX3mYAw=w2400",
+                "https://lh3.googleusercontent.com/BGMU_pmYx2-OuH7eh1LffXrP96uWPH_D7TljC_kcMimDKCuA9QY3shlMDogXA-IFGCWxuAChCVAKvm-JYW7suLg_tp762h8fUTwMflR4X5JFmzhNZI8fgD1_f-weaEzkg--k9FrpIg=w2400",
+                "https://lh3.googleusercontent.com/KMCkoqrF5x698agRxqdKu6Im2hVIdyWhEqaLANw7if5R-IX-v3CBcpFUHwLUHP-kIIfQWwIMr_Blg54lzi5-4dS1KwGt2IHsf4cYauvfeMKYzL94StKNcpGs92iyHNgnmci7Xz27zw=w2400",
+                "https://lh3.googleusercontent.com/LyUpaPPKGMo9SoEJ9j0l_fz8M5lqfnkVZMsQcdl3b9EP93QE3D91rJt1DHhFoQvHhRMAcF0WzU4cIWU6mfW12ubgSTp5ACzrc75hJ5-tDNRGUd1XboeRegwN1ycxF-8xlqv3l2crig=w2400"
+            ],
+            "overview":"Freelancing",
+            "title":"A digital solution agency briefcase website",
+            "toolbelt":"Figma, HTML, CSS, Vanilla JavaScript, Bootstrap, JQuery, Python, Flask, Django, AWS",
+            "intro":"This project is for one of my college alumni's start-up. The organization used to provide travelling solutions for travel agencies and was shifting to a Digital Solution agency. I was the lead front-end developer. I pick up this project mainly to learn and develope the up-to-date industry leading skills. It's been a great experience and learning opportunity",
+            "dummy":true,
+            "objective":"The objective was to build (and re-create) a modern, beautiful IT solution website with a space theme.",
+            "role":"UI / UX Design, Wireframing & Prototyping, Lead Frontend Development, Logo Design, Django Development",
+            "client":"Makscube",
+            "date":"June, 2020 - March, 2021",
+            "section":["Home Page", "Services Overview", "Offerings", "Work Portfolio", "Additional Solutions", "Certificates & Recognitions", "Investors & Incubators", "About", "Technologies", "Clients", "Testimonial", "Contact", "Career"],
+            "challenge":"Toughest challenge I faced was, creating the theme. Two of my approaches got rejected for several reasons, but we approve the latest design. One more problem was difficulty to see the website in mobile devices by not-so-technical people but with some researches, multiple attempts we created a very simple but nice looking website.",
+            "colors":["#03031F","#ffffff","#E7A775"]
+        },
+        "3":{
+            "image":[
+                "https://lh3.googleusercontent.com/Tl0e5QiM4EKb3RxZPGTEYqQbD4zIa-ok68lqrdMvq1xhGzTGwKHWKDTds78jHUYXINF-D_QHJIt7mFvUHZm6PX0smq6b0-BDk5rihmipBF_gZUPfVxrDHUBIwnGUKwyjEw6z8guuCg=w2400",
+                "https://lh3.googleusercontent.com/rKLeFhFLZZcwFEJy7TNFLKvZ32-UcW56h_bF2XyMhrTSKtbR6kbhg7NtJVr6bh1906OhKsOUdjUWncEJ2ylzQrQ95SeNDt-ZlKcgp2s3nCtrmEkBCHQof3UUmkxRItawTIooc_STww=w2400",
+                "https://lh3.googleusercontent.com/9oUbYOyqwXftXB4_U1aDxth5PlvbmogniVHPxXhDO-mwdy5py2NRolm1LWrxvAp2wF-moadWDfjuygqFYkGNtEV53YLGstO4KyOgXVHh1ByH1Ju51gcHBFI0WwfTdUTNeTaxv9smSg=w2400",
+                "https://lh3.googleusercontent.com/ieeBfFVPHbkjlUF20bSWLDlVRIQWD__ShXi2PYhhi8OIRSEY_VKXabM2pCFGVvwKD5ill1AzRixx-oBLl3omr-YA-b7VynLEd599dawDsDYNH43TZDXIdWrPu1M282NffVWrLu_bwA=w2400"
+            ],
+            "overview":"College Final Project",
+            "title":"A Chatbot & Voicebot for Banking Assistance",
+            "toolbelt":"Figma, HTML, CSS, Vanilla JavaScript, Python, Flask, Google Colaboratory, Google Sheets",
+            "intro":"BankBuddy is an AI chatbot for banking assistance, implemented using machine learning in Python. It's our final year project, made with Python module Tensorflow (keras, Sequential, Dense, Embedding, GlobalAveragePooling1D, Tokenizer, pad_sequences, LabelEncoder) Scikit-learn, Colorama, numpy etc. We in a 3-man group created this project.",
+            "dummy":false,
+            "objective":"Creating a bot that can answer user queries for many banking topics like credit card, debit card etc. and making a webpage around it.",
+            "role":"UI / UX Design, Frontend Development, Logo Design, Collecting Data, Cleaning & Synchronizing it, Train the Model, Flask Development, Implementing Sheet API",
+            "client":"N/A",
+            "date":"Jan, 2021 - April, 2021",
+            "section":["Hero Section", "Chat with Mikasa","Contact Us", "Team", "Useful links"],
+            "challenge":"The main challenge was implementing the AI model. <br /> A Working Demo (implemented with Pure JavaScript Chatbot) : <a href='https://ayank007.github.io/bankbuddy' target='_blank'>https://ayank007.github.io/bankbuddy</a>. <br /> Main Project source-code : <a href='https://github.com/ayank007/bankbuddySrc' target='_blank'>https://github.com/ayank007/bankbuddySrc</a> (due to lack of data, it's not well-trained model)",
+            "colors":["#16193f","#1c2483","#343a40", "#ff2d39","#f3a257"]
+        },
+        "4":{
+            "image":[
+                "https://lh3.googleusercontent.com/4ZaTmhFYEMAev93aXInB8igESLpBpBnYOFEf_mlVETkFur-bfW-0ojCa9EB43sduNYsB6ac2dqRST7yWLXO_qCwzfPHyigLO1G77xpBZWQ8n-GXubka6phIeMobGcv8OOJ-OpnqUHQ=w2400",
+                "https://lh3.googleusercontent.com/Q4sXTYEEj6J8uDipp35iGuSD8tKnboXfF0fSREEVBukjlTvU945njk_kImT7HmKinVR97ZrAX1bdxIZf98rNhiLJ8wCzax9FJaxtYNtA5xYlxITHMHPgQr8CnF_KiDbuvPRUQOTBtg=w2400",
+                "https://lh3.googleusercontent.com/TLluSjhT80dmC3TmKEzzY2xySfMsiNm-OqB0RS3i9M_WJB0Ko7-sgytl5lJiFeCkSqjKQF3g0IdEhcbLiQtECTwPlSQLWos7G1vIzy3305J4tPue7WRhaMTYKFkRuvSG7cuKnNHYcQ=w2400"],
+            "overview":"Freelancing",
+            "title":"A simple gaming platform provider website",
+            "toolbelt":"Figma, Adobe XD, HTML-CSS, Vanilla JavaScript",
+            "intro":"FitMyLan is a gaming platform provider, where I contributed as a front-end developer. I transform their XD prototype into an HTML-CSS mockup, design the price section from scratch also help creating their designer's portfolio.",
+            "dummy":true,
+            "objective":"Converting a XD Prototype into live working webpage + Designing the Price section",
+            "role":"Frontend Development",
+            "client":"FitMyLan",
+            "date":"August, 2021",
+            "section":["It's a small project consisting only 1 section i.e. the Home Page"],
+            "challenge":"Selecting the price section colors that seems attractive and also represent a gaming theme",
+            "colors":["#EFF8FF","#FA7686","#025b95","#0e7ac6","#03204c","#5ce184","#c1e585"]
+        },
+        "5":{
+            "image":[
+                "https://lh3.googleusercontent.com/AFcMM7HGSvdIW0ReCcF_AALowbYkmLgIA7MZ3wQJIZlvw-iCubn7BMrMyCJcfwR9z551R6QJ86ThS8-rpz6sjxj6IOihWyB9QBszAkTHuJxStOhZOGJcA6blHztk2mLYPV2q1O1eYg=w2400",
+                "https://lh3.googleusercontent.com/AFcMM7HGSvdIW0ReCcF_AALowbYkmLgIA7MZ3wQJIZlvw-iCubn7BMrMyCJcfwR9z551R6QJ86ThS8-rpz6sjxj6IOihWyB9QBszAkTHuJxStOhZOGJcA6blHztk2mLYPV2q1O1eYg=w2400",
+                "https://lh3.googleusercontent.com/AFcMM7HGSvdIW0ReCcF_AALowbYkmLgIA7MZ3wQJIZlvw-iCubn7BMrMyCJcfwR9z551R6QJ86ThS8-rpz6sjxj6IOihWyB9QBszAkTHuJxStOhZOGJcA6blHztk2mLYPV2q1O1eYg=w2400"
+            ],
+            "overview":"Personal",
+            "title":"A website for college professors",
+            "toolbelt":"Figma, HTML, CSS, JavaScript, JSX, React, GO, Postgres, Heroku",
+            "intro":"This project is for college professors where they can upload necessary PDFs and Notice for all the students, parents, teachers and other workers to see. It's to avoid / reduce unnecessary calls on un-appropriate times.",
+            "dummy":false,
+            "objective":"Basically a learning approach + connecting Golang, Postgres and React application to share PDFs, notices with everyone.",
+            "role": "Everything",
+            "client":"for my father",
+            "date":"Still Working",
+            "section":["Hero Section", "Notice", "Contact", "About Me and College"],
+            "challenge":"Learning and trying a new programming language, Storing PDFs in database etc.",
+            "colors":["#312e81","#d1d5db"]
+        }
+    }
+}

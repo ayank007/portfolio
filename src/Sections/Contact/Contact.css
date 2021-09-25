@@ -1,0 +1,247 @@
+#Contact {
+  padding-top: 100px;
+}
+
+#Contact .social-list {
+  justify-content: flex-start;
+}
+
+.underline {
+  width: 75%;
+  max-width: 0;
+  transition: 0.2s;
+  height: 3px;
+  background-color: var(--light);
+  left: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+#contactName {
+  background: transparent;
+  border: 1px solid var(--line2);
+  box-shadow: none;
+  color: #878795;
+  height: 70px;
+  width: 75%;
+  padding: 1rem 0.75rem;
+  min-width: 300px;
+  outline: none !important;
+}
+#contactName::-moz-placeholder {
+  -moz-transition: 0.2s;
+  transition: 0.2s;
+}
+#contactName:-ms-input-placeholder {
+  -ms-transition: 0.2s;
+  transition: 0.2s;
+}
+#contactName::placeholder {
+  transition: 0.2s;
+}
+#contactName:focus::-moz-placeholder {
+  opacity: 0;
+}
+#contactName:focus:-ms-input-placeholder {
+  opacity: 0;
+}
+#contactName:focus::placeholder {
+  opacity: 0;
+}
+#contactName:focus ~ .underline {
+  max-width: 75%;
+}
+#contactName:valid ::-moz-placeholder {
+  opacity: 0;
+}
+#contactName:valid :-ms-input-placeholder {
+  opacity: 0;
+}
+#contactName:valid ::placeholder {
+  opacity: 0;
+}
+#contactName:valid ~ .underline {
+  max-width: 75%;
+}
+
+#Contact textarea {
+  background: transparent;
+  border: 1px solid var(--line2);
+  resize: none;
+  box-shadow: none;
+  height: 150px;
+  padding: 1rem 0.75rem;
+  color: #878795;
+  width: 75%;
+  min-width: 300px;
+  outline: none !important;
+}
+#Contact textarea::-moz-placeholder {
+  -moz-transition: 0.2s;
+  transition: 0.2s;
+}
+#Contact textarea:-ms-input-placeholder {
+  -ms-transition: 0.2s;
+  transition: 0.2s;
+}
+#Contact textarea::placeholder {
+  transition: 0.2s;
+}
+#Contact textarea:focus::-moz-placeholder {
+  opacity: 0;
+}
+#Contact textarea:focus:-ms-input-placeholder {
+  opacity: 0;
+}
+#Contact textarea:focus::placeholder {
+  opacity: 0;
+}
+#Contact textarea:focus ~ .underline {
+  max-width: 75%;
+}
+#Contact textarea:valid ::-moz-placeholder {
+  opacity: 0;
+}
+#Contact textarea:valid :-ms-input-placeholder {
+  opacity: 0;
+}
+#Contact textarea:valid ::placeholder {
+  opacity: 0;
+}
+#Contact textarea:valid ~ .underline {
+  max-width: 75%;
+}
+
+#Contact .inpGrp {
+  margin-bottom: 15px;
+}
+
+#Contact form button {
+  background-color: transparent;
+  color: #878795;
+  border: 1px solid var(--line2);
+  width: 180px;
+  height: 50px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.check {
+  cursor: pointer;
+  position: relative;
+  margin: auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  -moz-column-gap: 3px;
+       column-gap: 3px;
+  height: 18px;
+  top: 5px;
+  margin-right: 5px;
+  -webkit-tap-highlight-color: transparent;
+  transform: translate3d(0, 0, 0);
+}
+
+.check:before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(34, 50, 84, 0.03);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.check svg {
+  position: relative;
+  z-index: 1;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #c8ccd4;
+  stroke-width: 1.5;
+  transform: translate3d(0, 0, 0);
+  transition: all 0.2s ease;
+}
+
+.check svg path {
+  stroke-dasharray: 60;
+  stroke-dashoffset: 0;
+}
+
+.check svg polyline {
+  stroke-dasharray: 22;
+  stroke-dashoffset: 66;
+}
+
+.check:hover:before {
+  opacity: 1;
+}
+
+.cbx {
+  position: absolute;
+  width: 0;
+  opacity: 0;
+  height: 0;
+}
+
+.cbx:checked + .check svg {
+  stroke: #4285f4;
+}
+
+.cbx:checked + .check svg path {
+  stroke-dashoffset: 60;
+  transition: all 0.3s linear;
+}
+
+.cbx:checked + .check svg polyline {
+  stroke-dashoffset: 42;
+  transition: all 0.2s linear;
+  transition-delay: 0.15s;
+}
+
+.checkBoxs {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+
+.checkBoxs > div {
+  display: flex;
+  margin: 0 20px 15px 0;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.checkBoxs > div > span {
+  transform: translateY(4px);
+}
+
+.pointer-events-none {
+  pointer-events: none;
+}
+
+.hiddenInput {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.swal-button {
+  background-color: #239167 !important;
+}
+
+@media screen and (max-width: 520px) {
+  .checkBoxs > div {
+    margin: 0 15px 30px 0 !important;
+  }
+}/*# sourceMappingURL=Contact.css.map */

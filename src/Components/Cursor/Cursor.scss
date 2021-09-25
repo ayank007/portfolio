@@ -1,0 +1,84 @@
+.cursor {
+    position: fixed;
+    mix-blend-mode: difference;
+    background-color: #fff;
+    top: 0;
+    left: 0;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    z-index: 1000000000;
+    user-select: none;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 10000;
+    transform: scale(1) translate3d(0, 0, 0);
+    &.active {
+        opacity: 0.5;
+        transform: scale(0);
+    }
+    &.hovered {
+        opacity: 0.08;
+    }
+}
+.cursor-follower {
+    position: fixed;
+    width: 30px;
+    mix-blend-mode: difference;
+    background-color: white;
+    opacity: 0.3;
+    height: 30px;
+    border-radius: 50%;
+    z-index: 1;
+    overflow: hidden;
+    user-select: none;
+    pointer-events: none;
+    z-index: 10000;
+    transform: scale(1) translate3d(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: height 0.3s, width 0.3s;
+    &.active {
+        opacity: 1;
+        width: 90px;
+        height: 90px;
+    }
+    &.hovered {
+        opacity: 0.08;
+    }
+    &.activeContact{
+        mix-blend-mode: unset;
+        background-color: #49ffba;
+        display: flex;
+        align-items: center;
+        color: black;
+        justify-content: center;
+        text-align: center;
+        font-size: 3.4px;
+        font-weight: bolder;
+        transform: scale(5);
+        opacity: 0.8;
+    }
+}
+.activeVideo{
+    background-color: rgb(255, 13, 13);
+    mix-blend-mode: unset;
+    &::before{
+        content: '';
+        position: absolute;
+        border-top: 12px solid transparent;
+        border-bottom: 12px solid transparent;
+        border-left: 22px solid white;
+        border-radius: 2px;
+        height: 0px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-27%,-50%);
+    }
+}
+@media screen and (max-width:520px) {
+    .cursor-follower, .cursor{
+        display: none!important;
+    }    
+}

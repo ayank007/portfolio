@@ -1,0 +1,131 @@
+#Work {
+  height: auto;
+  min-height: 100vh;
+  perspective: 1000px;
+}
+
+.watermark {
+  width: 120%;
+  left: -20%;
+  text-align: center;
+  font-size: clamp(70px,20vw,300px);
+  font-family: "Anton", sans-serif;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: var(--line2);
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.project {
+  display: flex;
+  padding: 0 15px 15px 0;
+  border-radius: 5px;
+  flex-flow: column;
+  color: var(--light);
+  cursor: pointer;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+}
+.project .content {
+  padding: 15px;
+  border-radius: 5px;
+  background: linear-gradient(135deg, #08539b, #229fcf);
+  width: 340px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.project img {
+  border-radius: 5px;
+  width: 100%;
+  transform: translateX(50px);
+  transform-origin: center center;
+  transition: 0.4s;
+  position: absolute;
+}
+.project h4 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+
+.project1 :hover img, .project4 :hover img {
+  transform: translateX(70px);
+}
+
+.project2 .content {
+  justify-content: start;
+  background: linear-gradient(41deg, rgba(56, 120, 196, 0.6) 0%, #02021e 70%);
+}
+.project2 img {
+  transform: translateX(-50px);
+  border-left: 1px solid var(--line2);
+  border-right: 1px solid var(--line2);
+}
+.project2 :hover img {
+  transform: translateX(-70px);
+}
+
+.project3 .content {
+  background: linear-gradient(135deg, #0e0e0e, #083856);
+  height: 160px;
+  width: 360px;
+  border-left: 1px solid #08385698;
+}
+.project3 img {
+  max-width: none;
+  transform: translate(40px, -30px);
+}
+.project3 :hover img {
+  transform: translateX(40px) translateY(-30px) translateZ(60px);
+}
+
+.project4 .content {
+  background: linear-gradient(6deg, #535787 0%, #49c1ff 100%);
+}
+
+.project0 .content {
+  justify-content: start;
+  background: linear-gradient(135deg, #1856a2, #2c3a7a 70%);
+}
+.project0 img {
+  transform: translateX(0px);
+}
+
+.project5 .content {
+  justify-content: start;
+  background: linear-gradient(-120deg, #abcdf6 0%, #1e3a8a 80%);
+}
+.project5 img {
+  transform: translateX(-50px);
+}
+.project5 :hover img {
+  transform: translateX(-70px);
+}
+
+@media screen and (max-width: 600px) {
+  #Work .transform {
+    transform: translate(0, 0);
+  }
+}
+@media screen and (max-width: 500px) {
+  #Work h4 {
+    font-size: 15px;
+  }
+
+  #Work .project {
+    width: 300px !important;
+  }
+  #Work .project .content {
+    max-width: 100%;
+    height: 170px;
+    padding: 15px 0;
+  }
+  #Work .project .content img {
+    transform: translateX(0);
+  }
+}/*# sourceMappingURL=Work.css.map */

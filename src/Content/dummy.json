@@ -1,0 +1,133 @@
+{"2":{
+    "title":"travel agency",
+    "desc":"html, css, js, jquery, bootstrap",
+    "tech":"html, css, js, jquery, bootstrap",
+    "demo":"",
+    "con":{
+        "1":{
+            "img":"https://lh3.googleusercontent.com/6ZqZTWP3FLPJ5DL46mLzapdrNSijM1lJwrrxlf0C8IpNoSSuB8caNoS501s2dVKeJRJsB2B9EEBZhdP1_TBUK_B9LN4BWTNJXh6BA8D-gYDYMmsknAHS0De3lPeA6SMAfr0_47gcXw=w2400",
+            "txt":"A design of travel agency or tour operator sketched in figma and a dashboard to keep track of everything made with html, css, js interacting with google charts api."
+        },
+        "2":{
+            "img":"https://lh3.googleusercontent.com/s8fQ-FDpfakmDItr4SYzFWNw-dM-1GctyURjFAmGbe-FMx-e2EUSpTT4G9N47fxmnCM_NlyWQeHuXuUpx0gDffYDiANREXRz8LO3JGNee6eRlw5zeESotpCb5BCjqNra6xc-g1d9EA=w2400",
+            "txt":""
+        },
+        "3":{
+            "img":"",
+            "txt":""
+        },
+        "4":{
+            "img":"",
+            "txt":""
+        }
+    }
+},
+"3":{
+    "title":"Diagnostic Center and Hospital Management Website",
+    "desc":"html, css, js, jquery, bootstrap",
+    "tech":"html, css, js, jquery, bootstrap",
+    "demo":"",
+    "con":{
+        "1":{
+            "img":"https://lh3.googleusercontent.com/h81vCr40D66NkmuA6-s2FOMmu5XQZCP7xAbrHt3XpbaLLAeADzJS1QJLGayJP_7Jov8X5R_Kttv2Ir7x59A2eKXRYkQeBThezMCRoXKZEB16AkWUsCAO8YEkva8vsEpM67K9ggjyOA=w2400",
+            "txt":""
+        },
+        "2":{
+            "img":"https://lh3.googleusercontent.com/cj9Lf6OFhiepyeoRmv7fcJyHihwLjvWhERzHNFHci_tsO7hYjL3aWJEG5B4mlL0qczuR8yOITk-rKm-fHX5SIXQMMgnsTQcgIiKZgN8DucQhjUP8TOrPgBd4jQZGAUXnVHCocTn7zg=w2400",
+            "txt":""
+        },
+        "3":{
+            "img":"https://lh3.googleusercontent.com/K7PX0ZkT6mHq9DOWS1ZFuwJE3RI2sVGGrJwpqjMb0zz6ZarhX1gmn1igq5DghFli3ZWlGeroT-sYtUTjZhwM-AQEL-zBOY-vx3D6aLRmBfaI5n8GAO16NVKGtE5l_s-B-bebuFKCkw=w2400",
+            "txt":""
+        },
+        "4":{
+            "img":"https://lh3.googleusercontent.com/Kv4tZmX-XpXthSyWaONe2gv9_yjhdkIqONZy_p9vU1YVpGKLlW7fuXS03R4xycMGtFKfyMuIPLChw8rXmd5d4YQRGeaz-TLZwngt0M4_8o1cThtVMt3MRcSTek48V5w_134Qym7Z4g=w2400",
+            "txt":""
+        },
+        "5":{
+            "img":"https://lh3.googleusercontent.com/fnlszBmtUNx225Yph6okI6Uja3vDtlyc45c3KNkekS6HB5JIK1YMXjm-NXPegmMI1fktm-g7xmch0G2QEH48fWP_o2WDFvrJoiUC58gTr8p9Fy8NTkZ-lazg6vkiLcngt6am-eUfrg=w2400",
+            "txt":""
+        }
+    }
+},
+"4":{
+    "title":"student portfolio",
+    "desc":"html, css, js, jquery, bootstrap",
+    "tech":"html, css, js, jquery, bootstrap",
+    "demo":"https://ayank007.github.io/StudentPortfolio/home/",
+    "con":{
+        "1":{
+            "img":"https://lh3.googleusercontent.com/-w9Ppmqqmz5yNFKPkwWx5Ro2pW9fOT9I3grbvT8qhccNDPsTQ-c-lWp9_0iWb-AcEXWqRijk7ie0xCiboNDsgwPEhxftfZjjyq0nFJpOofSKnSwZ6LG9Fy3izde_qXGHlt-6wXy4_w=w2400",
+            "txt":"It is one of my very first projects I have worked on. It can be used as a student cv for projects outside college and for getting selected for internship or training programs. It is developed sing basic html, css and js with the help of some libraries like jquery."
+        },
+        "2":{
+            "img":"",
+            "txt":"It's a single page website with multiple sections. The sections can be changed with a navbar situated on the left side. The inter-page animation is placed with the help of animsition library which is made for typeScript apps but i have implemented it in regular html, css website. The website has a typing animation in the home page and a rubber band animation in each page that makes an animated transition on hover effect over each letter. Both are implemented using pure vanilla js. The webpage doesn't have a local editable backend but with a google sheet as backend to store the contact form data. For me it is a better solution for a small scale landing page as the owner can view the message anywhere with a single click without checking the database."
+        }
+    }
+},
+"5":{
+    "title":"wedding planner agency",
+    "desc":"html, css, js, jquery, bootstrap",
+    "tech":"html, css, js, jquery, bootstrap",
+    "demo":"",
+    "con":{
+        "1":{
+            "img":"https://lh3.googleusercontent.com/bBAB-XMFSYAHhqr-WcuARcWjBekcGvsW47ZHxevJh2P2WY9w4Trec1j99vZ8Lmf6GJMgJKEzvx4wKALFgpmtHJ6UEC0EIO-UJTp8Pk4Mpqhz4-uOOgJal4BzVEYn5Q0WsCyR9zVANQ=w2400",
+            "txt":"The entire website is based on the benefits and advantages of choosing the Fortunate Decorator wedding planner over any other business. It can also be used in other businesses."
+        },
+        "2":{
+            "img":"https://lh3.googleusercontent.com/zI7T4u9nJPAnGgDVMNod-DM_k39Z0SI-hay1D1bLD_p4GLpmAL4JUEkI7VXHPCC4bb-sZA2lTcvlytA5Gh7nfz27N2ZYvPHA3wgFYN2b9uZVEvzfHeDIKEpKTUqtPTBjg8AAnQKAgw=w2400",
+            "txt":""
+        },
+        "3":{
+            "img":"https://lh3.googleusercontent.com/xoNlkrx53SZG3YE4-m8JWc9Xmg60yPYFau1AZUzd9OlY1gqL2JvnIiplLpCvN-wfmdeSKsWXkwHuWlK4G2k5tZQ9KssoR2g3wn0plJ9ti3IyJYr0eIY588pCHTPP7oyFMJStwZa5Mw=w2400",
+            "txt":""
+        },
+        "4":{
+            "img":"https://lh3.googleusercontent.com/t_7qx08n9-izurhGi3nEjLphaPjERL9qSM-gqVTCQQtB5mZ6kkK_YaslsD_YSTfybg8lXKmz08IbMzMvQRO8LhylLS_WDvIGxovFbfClfZcQ2izE53MnfKbG9TSUBJpHATQgHNukYA=w2400",
+            "txt":""
+        },
+        "5":{
+            "img":"https://lh3.googleusercontent.com/iuiH-cSH0_AZgPA5TfQaPwbPNBBQ26YA0iS6DdhhPXXfeTP7qKo7SGzXdW4hwOz6vWZxjlD-bVv8v_pZJzGWGaoQ3Awv1Da_MNC0Q2x-bhvTngzGVeHNB_VSzqyfiV7USrD5tUZDDA=w2400",
+            "txt":""
+        },
+        "6":{
+            "img":"https://lh3.googleusercontent.com/j-Yo3n7Xq0D10Vf_zL6nHxKWaz5V_ACOrLmixKqSixNXHCpyeB-OAPAI-lrU-gI4Ha1uGotKQwfEiBNbmEm-Tmmd-yfKn6Uow_Oyg48XzrcFdWXuPHnyOR45jtHxlouOiHEKjIjCDw=w2400",
+            "txt":""
+        },
+        "7":{
+            "img":"https://lh3.googleusercontent.com/mZUWrO4sJBeZtMuSFcUNzpYI8jh78vdiTiSDMdJqj349Q8tzB0EGogqSVnNCXxlz8aHfsBwWhsX9eGQ2a796E4jFJxw_81GGAaJtsxNQ34gOUqE4vNeJP5tWzO23nYdSVaUK3hBZBQ=w2400",
+            "txt":""
+        }
+    }
+},
+"6":{
+    "title":"it sector website",
+    "desc":"html, css, js, jquery, bootstrap",
+    "tech":"html, css, js, jquery, bootstrap",
+    "demo":"",
+    "con":{
+        "1":{
+            "img":"https://lh3.googleusercontent.com/b_cvYrB-VTh4HzphPTM4gaXMKsGRh_cnAwF_6jYdeijYgu6ATZ34tHetmYH9KEiu2VfixtjCi0sSkF5uSx2JsOhkyEN41kRuf9iUatVDp2iSUys5I7vh1Bnwi-AO44KF33Ei0zsBNQ=w2400",
+            "txt":"It's an It sector landing page developed mainly with html ,css and js. The website has 5 sections that are header section, service section, Portfolio section, About us, testimonials and a contact us section. The theme is based on two colors, the background is a dark faded blue and it's other shades and texts are on white. It's not published yet."
+        },
+        "2":{
+            "img":"https://lh3.googleusercontent.com/oy4IC3NvxWa4w3IktKeFB4oJsCsb23vxt9b7zPcVME7bv7fewAbdU5laF0OJoJxuu8-umytWWH2Jnz9poyQkm_CFouMrJTJEMFjiKFjehdzZiZ79GK31IuZwziluz2h_6QoSaylOtA=w2400",
+            "txt":"The header section has a vanilla javaScript typing animation along with some bubble animation triggered on mouse pointer move events. It has one sticky sidebar for quick contact for clients who instantly wants to start a project along with a WhatsApp button that redirects and opens a WhatsApp chat to a given number. The navbar is initially hidden and shows up on the hamburger menu with a scaling and fading animation. The service page is implemented with swiper js showing the services provided with proper thumbnails and a revealing animation."
+        },
+        "3":{
+            "img":"https://lh3.googleusercontent.com/3-5CjcQzwKXl0kA5B_yT2LkDVtObuQY4BIxk8l1rQj1ufA4d7ujPzBsOrt_IcD9KPFRiTnZhgU0poaVtl_yIIX5RXf_duQeldxUQKE29t0BgNdfXKeg7RRjD7Ht_U_GFFU8qMHvVZQ=w2400",
+            "txt":""
+        },
+        "4":{
+            "img":"https://lh3.googleusercontent.com/U16-_7BYbQ56eS1WkAQHWXLUoOTV0YoxcKcfW7ZY6z30gMNsp_fcc8EfDxzeZyOc9BuxOvA5FmMdOK2fI3T-BaqtThMKHHcZEb9Hhj0DJQsm-FHcINR853MBHUZuvxtNDkfrPmWacA=w2400",
+            "txt":""
+        },
+        "5":{
+            "img":"https://lh3.googleusercontent.com/8KEx9AEICWkwuojEW77xwK9sqCW7LccLs21pxN2TRpZAv-KzykheLhrXzfOItxHEjj-GvuBOe7s6CCXExJnLoK_jWAL3x91hHt8ZYxQIEN5kQK5lKgN4E5vAPgZUjhVC2KL8Glx7Ow=w2400",
+            "txt":""
+        }
+    }
+}
+}

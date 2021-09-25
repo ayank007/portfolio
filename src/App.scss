@@ -1,0 +1,156 @@
+.anton{
+    font-family: "Anton", sans-serif;
+}
+.section{
+    min-height: 730px;
+    padding: 30px 16.66%;
+    mix-blend-mode: difference;
+    &:not(.dark){
+        font-weight: 500;
+    }
+    &::before{
+        position: absolute;
+        top: 0;
+        right: -60px;
+        width: 60px;
+        height: 100%;
+        background-color: inherit;
+        content: '';
+    }
+}
+.putBehind{
+    z-index: -1!important;
+}
+.cursor-none{
+    pointer-events: none;
+}
+.Opacity{
+    opacity: 0;
+}
+.pageX{
+    position: fixed;
+    left: -250px;
+    top: -100%;
+    width: 2500px;
+    height: 300vh;
+    transform: rotate(-45deg) translate(-100%);
+    transition: 0s;
+    transition-delay: 0s;
+    opacity: 0;
+    z-index: 200000000;
+    &.come{
+        opacity: 1;
+        transform: rotate(-45deg) translate(-0%);
+    }
+    &.go{
+        transition: 0s;
+        transform-origin: 100% 100%;
+        transform: rotate(-45deg) translateY(-200%);
+    }
+}
+.pageX1{
+    background-color: black;
+    z-index: 1000;
+    &.come{
+        transition: 1s;
+        transition-delay: 0s;
+    }
+}
+.pageX2{
+    background-color: rgb(55, 216, 103);
+    z-index: 1002;
+    &.come{
+        transition: 0.9s;
+        transition-delay: 0.3s;
+    }
+}
+.pageX3{
+    background-color: rgb(209, 19, 19);
+    z-index: 1003;
+    &.come{
+        transition: 0.7s;
+        transition-delay: 0.5s;
+    }
+    .pageTxt{
+        transform: rotate(-45deg);
+    }
+    &.go{
+        transition: 0.1s;
+    }
+}
+.pageX4{
+    background-color: rgb(14, 47, 66);
+    z-index: 1004;
+    &.come{
+        transition: 0.6s;
+        transition-delay: 0.6s;
+    }
+    &.go{
+        transition: 2s;
+    }
+}
+.pageTxt{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 40%;
+    color: azure;
+    font-size: 40px;
+}
+#Main{
+    width: calc(100% - 60px);
+    top: 0;
+    left: 0;
+    position: relative;
+    min-height: 100vh;
+    z-index: 2;
+}
+@media screen and (max-width:1200px) {
+    .section{
+        padding: 30px 0 30px 16.66%; 
+    }
+}
+@media screen and (max-width:600px){
+    .pageX{
+        left: -60%;
+    }
+    .pageTxt{
+        top: 30%;
+        left: 30%;
+    }
+    #Main{
+        width: calc(100% - 30px);
+    }
+    .lines{
+        left: -30px;
+    }
+    .section{
+        padding: 30px 30px 30px calc(16.66% - 30px);
+    }
+    .section::after{
+        right: -30px;
+    }
+    html{
+        overflow-x: hidden;
+    }
+    .hamBox, .goToTop.active{
+        border: 1px solid var(--primary-dark)!important;
+    }
+}
+@media screen and (max-width:500px) {
+    .pageTxt{
+        top: 20%;
+        left: 25%;
+    }
+    .lines > div:nth-child(2),
+    .lines > div:nth-child(5){
+        border-right: none;
+    }
+    h1.w-max.heading1{
+        font-size: 20px;
+    }
+    .pageTxt{
+        font-size: 30px;
+    }
+}

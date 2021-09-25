@@ -1,0 +1,45 @@
+.scrollProgress{
+    position: fixed;
+    left: 11px;
+    bottom: 30px;
+    margin: 0 12px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: column;
+    transition: 0.3s;
+    z-index: 99;
+    transform-origin: 100% 100%;
+    mix-blend-mode: difference;
+}
+.hidingProcess{
+    left: 11px;
+    position: absolute;
+    top: calc(100vh - 80px);
+    margin: 0 12px;
+    width: 40px;
+    height: 40px;
+    background-color: var(--light);
+    z-index: 300;
+}
+@media screen and (max-width:500px) {
+    a.pageChangeBtn.fixed{
+        position: absolute;
+    }
+    .baseLogo h1.authorName{
+        font-size: 17px;
+        margin-top: 0;
+    }
+    .baseLogo h2{
+        font-size: 14px;
+    }
+    .baseLogo .flex.flex-col{
+        margin-left: 0px;
+    }
+    .logo.baseLogo img{
+        width: 50px;
+        height: 50px;
+    }
+}

@@ -1,0 +1,206 @@
+#Sidebar {
+  width: 60px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  mix-blend-mode: difference;
+  z-index: 3;
+  backface-visibility: hidden !important;
+  -moz-backface-visibility: hidden !important;
+  -webkit-backface-visibility: hidden !important;
+}
+#Sidebar a {
+  transition: 0.3s;
+}
+
+.sideNav {
+  position: relative;
+  height: 135px;
+  width: 60px;
+}
+.sideNav > div {
+  height: 60px;
+  width: 135px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(90deg) translate(0px, -60px);
+  transform-origin: top left;
+}
+.sideNav a {
+  color: white;
+  font-size: 17px;
+  padding: 0 8px;
+}
+.sideNav a:hover {
+  color: var(--green);
+}
+
+.sideContact {
+  height: 130px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.sideContact > div {
+  height: 40px;
+  position: absolute;
+  width: 120px;
+  padding: 2px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(90deg) translate(-40px, -80px);
+  transform-origin: top left;
+  background-color: #fff2df;
+  background-color: var(--green);
+  font-weight: 500;
+  border-radius: 20px;
+}
+.sideContact a {
+  color: var(--primary-dark);
+  font-size: 17px;
+  transform: translateY(-1.8px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.goToTop {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  right: 10px;
+  bottom: 30px;
+  background-color: #ffffff;
+  transform: scale(0);
+  transition: 0.3s;
+  transform-origin: center center;
+}
+.goToTop.active {
+  transform: scale(1);
+}
+
+.extraNav {
+  display: none;
+}
+
+.hamBox {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: none;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.hamburger {
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  -webkit-clip-path: circle(25px at center center);
+          clip-path: circle(25px at center center);
+  -webkit-clip-path: circle(25px at var(--x) var(--y));
+          clip-path: circle(25px at var(--x) var(--y));
+  pointer-events: none;
+  background-color: var(--bg);
+  transform: translate(-50%, -50%);
+}
+.hamburger::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  -webkit-clip-path: circle(24px at var(--x) var(--y));
+          clip-path: circle(24px at var(--x) var(--y));
+  pointer-events: none;
+  background-color: white;
+  transform: translate(-50%, -50%);
+}
+.hamburger .hamburgerIcon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  top: var(--y);
+  left: var(--x);
+  width: 24px;
+  height: 24px;
+  transform: translate(-50%, -50%);
+  transition: all 0.1s linear;
+  display: flex;
+  color: black;
+  font-size: 20px;
+  z-index: 10;
+  align-items: center;
+  justify-content: center;
+}
+.hamburger .hamburgerIcon > div {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: 0s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hamburger .hamburgerIcon > div > div {
+  background-color: black;
+  width: 24px;
+  height: 3px;
+  min-height: 3px;
+  max-height: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  transition: transform 0.3s ease;
+}
+.hamburger .hamburgerIcon > div > div.hamLine1 {
+  top: 3.5px;
+}
+.hamburger .hamburgerIcon > div > div.hamLine2 {
+  top: 10.5px;
+}
+.hamburger .hamburgerIcon > div > div.hamLine3 {
+  top: 17.5px;
+}
+.hamburger.opened .hamburgerIcon .hamLine1 {
+  transform: rotate(-45deg) translate(-5px, 6px);
+}
+.hamburger.opened .hamburgerIcon .hamLine2 {
+  opacity: 0;
+}
+.hamburger.opened .hamburgerIcon .hamLine3 {
+  transform: rotate(45deg) translate(-4px, -4.5px);
+}
+
+@media screen and (max-width: 580px) {
+  .extraNav {
+    display: block;
+  }
+}
+@media screen and (max-width: 500px) {
+  .sideNav a, .sideContact a {
+    font-size: 15px;
+  }
+}/*# sourceMappingURL=Sidebar.css.map */

@@ -1,0 +1,19 @@
+.experience > div{
+    background-color: #232323;
+    background-color: #5e5e5e1c;
+    color: #ababab;
+    min-width: 320px;
+}
+.experience ul{
+    list-style: square;
+    padding-left: 30px;
+}
+#About{
+    min-height: 100vh;
+    height: auto;
+}
+@media screen and (max-width:500px) {
+    .abtTxt.text-lg, .experience{
+        font-size: 15px;
+    }
+}

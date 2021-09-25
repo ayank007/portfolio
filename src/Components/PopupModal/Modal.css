@@ -1,0 +1,13 @@
+.popupModal-bg{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.popupModal-bg.active{
+    opacity: 1;
+    pointer-events: auto;
+}
+.popupModal{
+    width: 80%;
+}
+.popupModal-bg.active .popupModal{
+    transform: translateY(0);
+}
