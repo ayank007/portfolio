@@ -50,7 +50,7 @@ const Header = () => {
                     <div id="whatIDo">Designer / Developer</div>
                 </div>
                 <p className='shortIntro'>
-                    I am a frontend focused full-stack developer and a freelancer with a keen interest in technology & coding. Looking forward and my next challenges.
+                    I am a frontend focused full-stack developer and a freelancer with a keen interest in technology & coding. Looking forward for my next challenges.
                 </p>
                 <div className='btns'>
                     <div className='link'>

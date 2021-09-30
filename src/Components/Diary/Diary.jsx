@@ -51,7 +51,7 @@ const Diary = () => {
                 <div>
                     <div key={1} className='page innerpage'>
                         <div>
-                            <h3>I am an Engineer and I love coding and productive work.</h3>                                
+                            <h3>I am an Engineer and love coding and productive work.</h3>                                
                             <div className='myImg'>
                                 <img src={ayan} alt="myself" />
                             </div>
@@ -69,7 +69,7 @@ const Diary = () => {
                                 contribute to an exciting and forward-thinking team.
                             </h3>
                             <h3>I am quick to adept myself in any team along with the technology 
-                                being used and look forward to be a part of the process and may be making some friends for life.
+                                being used and look forward to being a part of the process and making some friends for life.
                             </h3>
                             <h3>As for other aims I would like to have a big role in an Industry and
                                 settle down.
@@ -213,7 +213,7 @@ const Diary = () => {
                             <h3>
                                 Coding, Practicing new technology
                                 <br/>
-                                sometime it's frustrating and hard, but I like doing it
+                                Sometime it's frustrating and hard, but I just like doing it. Here 3 steps of me coding...
                             </h3>
                             <div className="coding">
                             <div className="first">
