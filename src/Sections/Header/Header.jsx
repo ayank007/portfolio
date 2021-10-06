@@ -45,13 +45,16 @@ const Header = () => {
                 </Link>
             </div>
             <div className='headingCard'>
-                <h5 className="capitalize">Hello, my name is Ayan</h5>
+                <template>
+                    <h1>Hi there, my name is Ayan Koley. I am a professional Designer and Developer and it's my portfolio. I love prototyping, coding, pen testing and finally executing my thought processes into Webapp, Mobile App, GUI software etc.</h1>
+                </template>
+                <h1 className="capitalize">Hello, my name is Ayan</h1>
                 <div className='whatIDo capitalize'>
-                    <div id="whatIDo">Designer / Developer</div>
+                    <h2 id="whatIDo">Designer / Developer</h2>
                 </div>
-                <p className='shortIntro'>
+                <h3 className='shortIntro'>
                     I am a frontend focused full-stack developer and a freelancer with a keen interest in technology & coding. Looking forward for my next challenges.
-                </p>
+                </h3>
                 <div className='btns'>
                     <div className='link'>
                         <Link smooth to="#About">
