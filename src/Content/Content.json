@@ -95,7 +95,7 @@
             "client":"FitMyLan",
             "date":"August, 2021",
             "section":["It's a small project consisting only 1 section i.e. the Home Page"],
-            "challenge":"Selecting the price section colors that seems attractive and also represent a gaming theme",
+            "challenge":"One of my favorite challenge was creating a trust-worthy, gaming gradient background on price section, I enjoyed doing it, but the hardest challenge was while making the the portfolio page. On the portfolio page the work collection section is an animated slider where we can select tags to show specific projects only. I used swiper js for the slider. I fetched api and save the required details locally and just re-rendering swiper component on tag change.",
             "colors":["#EFF8FF","#FA7686","#025b95","#0e7ac6","#03204c","#5ce184","#c1e585"]
         },
         "5":{
