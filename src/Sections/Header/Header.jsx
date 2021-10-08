@@ -47,7 +47,7 @@ const Header = () => {
             <div className='headingCard'>
                 <h1 className="noDisplay">Ayan Koley</h1>
                 <h1 className="noDisplay">Hi there, my name is Ayan Koley. I am a professional Designer and Developer and it's my portfolio. I love prototyping, coding, pen testing and finally executing my thought processes into Webapp, Mobile App, GUI software etc.</h1>
-                <h1 className="capitalize">Hello, my name is Ayan</h1>
+                <h1 className="capitalize">Hello, my name is Ayan Koley</h1>
                 <div className='whatIDo capitalize'>
                     <h2 id="whatIDo">Designer / Developer</h2>
                 </div>
