@@ -22,37 +22,37 @@ const Work = ({pageChange}) => {
         projectLink1.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project1`;
+				window.location.href=`/#/project/project1`;
 			},1200)
 		})
         projectLink2.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project2`;
+				window.location.href=`/#/project/project2`;
 			},1200)
 		})
         projectLink3.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project3`;
+				window.location.href=`/#/project/project3`;
 			},1200)
 		})
         projectLink4.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project4`;
+				window.location.href=`/#/project/project4`;
 			},1200)
 		})
         projectLink5.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project5`;
+				window.location.href=`/#/project/project5`;
 			},1200)
 		})
         projectLink0.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/project/project0`;
+				window.location.href=`/#/project/project0`;
 			},1200)
 		})
     })
