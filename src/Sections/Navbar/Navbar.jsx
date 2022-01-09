@@ -18,7 +18,7 @@ const Navbar = ({pageChange}) => {
 	const goToHome  = () => {
 		pageChange()
 		setTimeout(function(){
-			window.location.href=`/portfolio/#/`;
+			window.location.href=`/`;
 		},1200)
 	}
 

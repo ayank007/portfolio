@@ -18,7 +18,7 @@ const Project = (props) => {
         homeLink.current.addEventListener('click', function(){
 			pageChange()
 			setTimeout(function(){
-				window.location.href=`/portfolio/#/`;
+				window.location.href=`/`;
 			},1200)
 		})
     })
