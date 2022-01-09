@@ -12,7 +12,7 @@ import data from "./Content/Content.json"
 
 const App = () => {
 
-    const pageChange=()=>{    
+    const pageChange=()=>{
         document.querySelector('#Navbar').classList.remove('opened')
         document.querySelector('.hamburger').classList.remove('opened')
         setTimeout(function(){
